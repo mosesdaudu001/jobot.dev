@@ -1,0 +1,8 @@
+# Create React app
+npx create-next-app jobot
+
+# Go into the directory and run the react app
+npm run dev
+
+#OpenAI secret key
+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
